@@ -1,0 +1,2 @@
+def moobar():
+  print("hi")
